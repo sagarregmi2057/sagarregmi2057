@@ -12,6 +12,7 @@ I'm documenting my path of becoming a DevOps Engineer step by step, building pro
 |-----|------------|------------|--------|
 | 1   | [Day-1](https://github.com/sagarregmi2057/GithubActions) | GitHub Actions Basics yml and actions (Hello World Workflow) | ✅ Completed |
 | 2   | [Day-1](https://github.com/sagarregmi2057/Schedule-Github-Workflow ) | schedule github workflow| ✅ Completed |
+| 3  | [Day-1](https://github.com/sagarregmi2057/Disable-workflow ) | Disable github workflow Manually or Programmatically| ✅ Completed |
 
 | ... | ...        | ...        | ...    |
 
