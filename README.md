@@ -10,7 +10,7 @@ I'm documenting my path of becoming a DevOps Engineer step by step, building pro
 
 | Day | Repository | Focus Area | Status |
 |-----|------------|------------|--------|
-| 1   | [Day-1](https://github.com/sagarregmi2056/GithubActions) | GitHub Actions Basics yml and actions (Hello World Workflow) | ✅ Completed |
+| 1   | [Day-1](https://github.com/sagarregmi2057/GithubActions) | GitHub Actions Basics yml and actions (Hello World Workflow) | ✅ Completed |
 | 2   | [Day-1](https://github.com/sagarregmi2057/Schedule-Github-Workflow ) | schedule github workflow| ✅ Completed |
 
 | ... | ...        | ...        | ...    |
