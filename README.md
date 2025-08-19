@@ -14,6 +14,7 @@ I'm documenting my path of becoming a DevOps Engineer step by step, building pro
 | 2   | [Day-1](https://github.com/sagarregmi2057/Schedule-Github-Workflow ) | schedule github workflow| ✅ Completed |
 | 3  | [Day-1](https://github.com/sagarregmi2057/Disable-workflow ) | Disable github workflow Manually or Programmatically| ✅ Completed |
 | 4  | [Day-2](https://github.com/sagarregmi2057/Job-Concurrency-in-GitHub-Actions ) | GitHub Actions – Concurrency Explained | ✅ Completed |
+| 5  | [Day-3](https://github.com/sagarregmi2057/Docker-Beginner ) | Docker and files – Basic Docker Explained | ✅ Completed |
 
 
 | ... | ...        | ...        | ...    |
