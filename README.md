@@ -15,8 +15,9 @@ I'm documenting my path of becoming a DevOps Engineer step by step, building pro
 | 3  | [Day-1](https://github.com/sagarregmi2057/Disable-workflow ) | Disable github workflow Manually or Programmatically| ✅ Completed |
 | 4  | [Day-2](https://github.com/sagarregmi2057/Job-Concurrency-in-GitHub-Actions ) | GitHub Actions – Concurrency Explained | ✅ Completed |
 | 5  | [Day-3](https://github.com/sagarregmi2057/Docker-Beginner ) | Docker and files – Basic Docker Explained | ✅ Completed |
-| 6  | [Day-3](https://github.com/sagarregmi2057/Terraform-ec2-miniprojects ) | Terraform basics with aws-cli  | ✅ Completed |
-| 7  | [Day-3](https://github.com/sagarregmi2057/terraform-variables ) | Terraform variables for ami and ip  | ✅ Completed |
+| 6  | [Day-4](https://github.com/sagarregmi2057/Terraform-ec2-miniprojects ) | Terraform basics with aws-cli  | ✅ Completed |
+| 7  | [Day-5](https://github.com/sagarregmi2057/terraform-variables ) | Terraform variables for ami and ip  | ✅ Completed |
+| 8  | [Day-5]( https://github.com/sagarregmi2057/terraform-Dependency-resources) | Terraform resource dependencies depends_on and random variable  | ✅ Completed |
 
 
 
